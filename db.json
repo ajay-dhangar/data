@@ -1,1 +1,14 @@
-
+{
+  "projects": [
+    { "id": 1, "title": "CodeMasterMindHQ" },
+    { "id": 2, "title": "React Blog App" },
+    { "id": 3, "title": "Portfolio" }
+  ],
+  "technology": [
+    { "id": 1, "tech": ".js, .jsx, .ts, .tsx, .md, .mdx, .css, .html, .json, .svg", "projectId": 1 },
+    { "id": 2, "tech": "React, .js, .jsx, .css, .html", "projectId": 1 }
+  ],
+  "profile": {
+    "name": "Ajay Dhangar"
+  }
+}
